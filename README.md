@@ -71,15 +71,3 @@ cd Uber Data Analytics
 pip install -r requirements.txt
 jupyter notebook uber.ipynb
 ```
-
-## Why This Project Works for a Junior Data Analyst Role
-
-- I work with a real dataset
-- I run structured analysis from cleaning to modeling
-- I use relevant Python libraries
-- I evaluate results with discipline
-- I avoid inflated claims and show real thinking
-
----
-
-This is an honest portfolio piece. No fake business outcomes. No revenue math from sample data. Just solid technical work.
